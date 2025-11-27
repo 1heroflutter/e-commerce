@@ -7,8 +7,7 @@ gateway integrations and automated logistics.
 
 ## Screenshots
 
-| Home Screen | Store Screen | Favourite Screen | Setting Screen| Product Detail | Cart Screen | Checkout Screen |  
-| ![Home](assets/images/screenshots/home.jpg)| ![Dark](assets/images/screenshots/dark_home.jpg)! |[Store](assets/images/screenshots/store.jpg)!|[Favourite](assets/images/screenshots/favourite.jpg)!|[Setting](assets/images/screenshots/setting.jpg)!|[Product Detail ](assets/images/screenshots/product_detail.jpg) | ![Cart](assets/images/screenshots/cart.jpg) | ![Checkout](assets/images/screenshots/checkout.jpg) |
+| ![Home](assets/images/screenshots/home.jpg)| ![Dark](assets/images/screenshots/dark_home.jpg)!| |[Store](assets/images/screenshots/store.jpg)!||[Favourite](assets/images/screenshots/favourite.jpg)!||[Setting](assets/images/screenshots/setting.jpg)!||[Product Detail ](assets/images/screenshots/product_detail.jpg)| | ![Cart](assets/images/screenshots/cart.jpg) | |![Checkout](assets/images/screenshots/checkout.jpg) |
 
 ✨ Key Features
 
