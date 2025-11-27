@@ -1,0 +1,20 @@
+import 'package:e_commerce_app/features/personalization/controllers/address_controller.dart';
+import 'package:e_commerce_app/features/shop/controllers/checkout_controller.dart';
+import 'package:e_commerce_app/features/shop/controllers/favourites_controller.dart';
+import 'package:e_commerce_app/features/shop/controllers/product/variation_controller.dart';
+import 'package:e_commerce_app/utils/network/network_manager.dart';
+import 'package:get/get.dart';
+
+import '../../data/repositories/user/user_controller.dart';
+
+class GeneralBindings extends Bindings{
+
+  @override
+  void dependencies() {
+    Get.put(NetworkManager());
+    Get.put(VariationController());
+    Get.put(AddressController());
+    Get.put(CheckoutController());
+    Get.put(UserController());
+  }
+}

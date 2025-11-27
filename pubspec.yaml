@@ -1,0 +1,74 @@
+name: e_commerce_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.1
+  intl: ^0.19.0
+  logger: ^2.3.0
+  url_launcher: ^6.3.0
+  get_storage: ^2.1.1
+  iconsax: ^0.0.8
+  lottie:
+  shimmer: ^3.0.0
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  smooth_page_indicator: ^1.2.1
+  carousel_slider:
+  readmore:
+  firebase_core:
+  cloud_firestore:
+  firebase_auth:
+  firebase_storage:
+  connectivity_plus:
+  google_sign_in: ^6.2.1
+  image_picker: ^1.2.0
+  cloudinary_public: ^0.23.1
+  flutter_dotenv: ^6.0.0
+  cached_network_image:
+  flutter_paypal_payment:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/icons/brands/
+    - assets/images/
+    - assets/logos/
+    - assets/images/on_boarding_images/
+    - assets/images/verify_email_images/
+    - assets/animation/loading/
+    - assets/animation/empty/
+    - assets/icons/payment_methods/
+    - .env
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins.light.ttf
+          weight: 300
+        - asset: assets/fonts/poppins.regular.ttf
+          weight: 400
+        - asset: assets/fonts/poppins.italic.ttf
+          style: italic
+        - asset: assets/fonts/poppins.medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins.medium-italic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/poppins.semibold.ttf
+          weight: 600
+        - asset: assets/fonts/poppins.bold.ttf
+          weight: 800
