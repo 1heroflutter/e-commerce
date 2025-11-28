@@ -7,8 +7,9 @@ gateway integrations and automated logistics.
 
 ## Screenshots
 
-| ![Home](assets/images/screenshots/home.jpg) | ![Dark](assets/images/screenshots/dark_home.jpg) | ![Store](assets/images/screenshots/store.jpg) | ![Favourite](assets/images/screenshots/favourite.jpg) | ![Setting](assets/images/screenshots/setting.jpg) | ![Product Detail](assets/images/screenshots/product_detail.jpg) | ![Cart](assets/images/screenshots/cart.jpg) | ![Checkout](assets/images/screenshots/checkout.jpg) |
-|:-------------------------------------------:|:------------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------:|:---------------------------------------------------:|
+| ![Home](assets/images/screenshots/home.jpg) | ![Dark](assets/images/screenshots/dark_home.jpg) | ![Store](assets/images/screenshots/store.jpg) | ![Favourite](assets/images/screenshots/favourite.jpg) | ![Setting](assets/images/screenshots/setting.jpg) | ![Product Detail](assets/images/screenshots/product_detail.jpg) | ![Cart](assets/images/screenshots/cart.jpg) | ![Checkout](assets/images/screenshots/checkout.jpg) | ![Checkout](assets/images/screenshots/paypal_login.jpg) | ![Checkout](assets/images/screenshots/paypal_payment.jpg) | ![Checkout](assets/images/screenshots/payment_success.jpg) |
+|:-------------------------------------------:|:------------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|
+
 
 
 ✨ Key Features
